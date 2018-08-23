@@ -22,6 +22,7 @@
 		E10B2540212E1F5C00A4B425 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E10B2543212E1F5C00A4B425 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E10B2545212E1F5C00A4B425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E10B254B212E2CB900A4B425 /* Recursion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Recursion.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		E10B252D212E1F5400A4B425 = {
 			isa = PBXGroup;
 			children = (
+				E10B254B212E2CB900A4B425 /* Recursion.playground */,
 				E10B2538212E1F5400A4B425 /* RecursionDemo */,
 				E10B2537212E1F5400A4B425 /* Products */,
 			);
